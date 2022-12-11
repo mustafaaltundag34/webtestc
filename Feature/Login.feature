@@ -16,11 +16,11 @@ Scenario: LoginSenaryosu
 	* "/html/body/div[1]/div/div[2]/ul/li[3]/a" xpath adresli "Employee List" Butonuna tıklarım
 	* "2" saniye beklerim
 	* "/html/body/div[2]/form/input[1]" xpath adresli input alanina "saranya" değerini yazarim
-	* "2" saniye beklerim
+	* "3" saniye beklerim
 	* "/html/body/div[2]/form/input[2]" xpath adresli "Search" Butonuna tıklarım
-	* "5" saniye beklerim
+	* "6" saniye beklerim
 	* "//*[@id="logoutForm"]/ul/li[2]/a" xpath adresli "Logoff" Butonuna tıklarım
-	* "5" saniye beklerim
+	* "6" saniye beklerim
 	* Oturumu Kapatirim
 
 

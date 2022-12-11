@@ -133,19 +133,19 @@ this.ScenarioInitialize(scenarioInfo);
                         "yazarim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 19
- testRunner.And("\"2\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+ testRunner.And("\"3\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 20
  testRunner.And("\"/html/body/div[2]/form/input[2]\" xpath adresli \"Search\" Butonuna tıklarım", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 21
- testRunner.And("\"5\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+ testRunner.And("\"6\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 22
  testRunner.And("\"//*[@id=\"logoutForm\"]/ul/li[2]/a\" xpath adresli \"Logoff\" Butonuna tıklarım", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 23
- testRunner.And("\"5\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
+ testRunner.And("\"6\" saniye beklerim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
 #line hidden
 #line 24
  testRunner.And("Oturumu Kapatirim", ((string)(null)), ((TechTalk.SpecFlow.Table)(null)), "* ");
